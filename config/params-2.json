@@ -1,0 +1,6 @@
+{
+    "total_links": 1000,
+    "Link_in_each_cat": 20,
+    "outpath" : ["data", "app_to_api.json", "code_block.json", "library_dic.json", "scores.csv"]
+    
+}
